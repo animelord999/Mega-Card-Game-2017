@@ -1,0 +1,12 @@
+H:\mega card game\Library\bin\Debug\Library.dll
+H:\mega card game\Library\bin\Debug\Library.pdb
+H:\mega card game\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+H:\mega card game\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+H:\mega card game\Library\obj\Debug\Library.dll
+H:\mega card game\Library\obj\Debug\Library.pdb
+C:\Users\Zachary\Desktop\mega card game\Library\bin\Debug\Library.dll
+C:\Users\Zachary\Desktop\mega card game\Library\bin\Debug\Library.pdb
+C:\Users\Zachary\Desktop\mega card game\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Desktop\mega card game\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Zachary\Desktop\mega card game\Library\obj\Debug\Library.dll
+C:\Users\Zachary\Desktop\mega card game\Library\obj\Debug\Library.pdb

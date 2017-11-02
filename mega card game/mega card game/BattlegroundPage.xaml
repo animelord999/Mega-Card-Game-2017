@@ -1,0 +1,28 @@
+﻿<Window x:Class="mega_card_game.BattlegroundPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mega_card_game"
+        mc:Ignorable="d"
+        Title="BattlegroundPage" Height="424.37" Width="694.118">
+    <Grid>
+        <Label Content="{}{Player Character} vs {Non Player Character}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="145,18,0,0" Width="309"/>
+        <Image HorizontalAlignment="Left" Height="184" Margin="97,84,0,0" VerticalAlignment="Top" Width="149"/>
+        <Image HorizontalAlignment="Left" Height="184" Margin="375,84,0,0" VerticalAlignment="Top" Width="149"/>
+        <Label Content="Health Points:" HorizontalAlignment="Left" Height="23" Margin="64,52,0,0" VerticalAlignment="Top" Width="101"/>
+        <ProgressBar x:Name="pgbPlayerHealth" HorizontalAlignment="Left" Height="9" Margin="152,61,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="Health Points:" HorizontalAlignment="Left" Height="23" Margin="357,52,0,0" VerticalAlignment="Top" Width="101"/>
+        <ProgressBar x:Name="pgbEnemyHealth" HorizontalAlignment="Left" Height="9" Margin="441,61,0,0" VerticalAlignment="Top" Width="83"/>
+        <RadioButton Content="Standard Attack" HorizontalAlignment="Left" Margin="265,142,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Special Attack" HorizontalAlignment="Left" Margin="265,157,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnAttack" Content="Attack" HorizontalAlignment="Left" Height="32" Margin="265,190,0,0" VerticalAlignment="Top" Width="93"/>
+        <TextBox x:Name="txtHealthNoPlayer" HorizontalAlignment="Left" Height="23" Margin="248,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="27"/>
+        <TextBox x:Name="txtHealthNoEnemy" HorizontalAlignment="Left" Height="23" Margin="537,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="27"/>
+        <Label Content="Player Characteristics" HorizontalAlignment="Left" Height="65" Margin="97,273,0,0" VerticalAlignment="Top" Width="138"/>
+        <Label Content="NonPlayer Characteristics" HorizontalAlignment="Left" Height="65" Margin="375,273,0,0" VerticalAlignment="Top" Width="138"/>
+        <Button x:Name="btnNewGame" Content="New Game" HorizontalAlignment="Left" Height="27" Margin="573,299,0,0" VerticalAlignment="Top" Width="83" Click="btnNewGame_Click"/>
+        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Height="27" Margin="573,331,0,0" VerticalAlignment="Top" Width="83"/>
+
+    </Grid>
+</Window>

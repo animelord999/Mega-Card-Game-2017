@@ -1,0 +1,46 @@
+H:\mega card game\mega card game\bin\Debug\mega card game.exe.config
+H:\mega card game\mega card game\bin\Debug\mega card game.exe
+H:\mega card game\mega card game\bin\Debug\mega card game.pdb
+H:\mega card game\mega card game\obj\Debug\mega card game.csprojResolveAssemblyReference.cache
+H:\mega card game\mega card game\obj\Debug\MainWindow.g.cs
+H:\mega card game\mega card game\obj\Debug\App.g.cs
+H:\mega card game\mega card game\obj\Debug\mega card game_MarkupCompile.cache
+H:\mega card game\mega card game\obj\Debug\mega card game_MarkupCompile.lref
+H:\mega card game\mega card game\obj\Debug\MainWindow.baml
+H:\mega card game\mega card game\obj\Debug\mega card game.g.resources
+H:\mega card game\mega card game\obj\Debug\mega_card_game.Properties.Resources.resources
+H:\mega card game\mega card game\obj\Debug\mega card game.csproj.GenerateResource.Cache
+H:\mega card game\mega card game\obj\Debug\mega card game.csproj.CoreCompileInputs.cache
+H:\mega card game\mega card game\obj\Debug\mega card game.exe
+H:\mega card game\mega card game\obj\Debug\mega card game.pdb
+H:\mega card game\mega card game\obj\Debug\BattlegroundPage.g.cs
+H:\mega card game\mega card game\obj\Debug\The Vanquished.g.cs
+H:\mega card game\mega card game\obj\Debug\TheVictor!.g.cs
+H:\mega card game\mega card game\bin\Debug\Library.dll
+H:\mega card game\mega card game\bin\Debug\Library.pdb
+H:\mega card game\mega card game\obj\Debug\BattlegroundPage.baml
+H:\mega card game\mega card game\obj\Debug\The Vanquished.baml
+H:\mega card game\mega card game\obj\Debug\TheVictor!.baml
+C:\Users\Zachary\Desktop\mega card game\mega card game\bin\Debug\mega card game.exe.config
+C:\Users\Zachary\Desktop\mega card game\mega card game\bin\Debug\mega card game.exe
+C:\Users\Zachary\Desktop\mega card game\mega card game\bin\Debug\mega card game.pdb
+C:\Users\Zachary\Desktop\mega card game\mega card game\bin\Debug\Library.dll
+C:\Users\Zachary\Desktop\mega card game\mega card game\bin\Debug\Library.pdb
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\BattlegroundPage.g.cs
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\MainWindow.g.cs
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\The Vanquished.g.cs
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\TheVictor!.g.cs
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\App.g.cs
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game_MarkupCompile.cache
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game_MarkupCompile.lref
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\BattlegroundPage.baml
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\MainWindow.baml
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\The Vanquished.baml
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\TheVictor!.baml
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game.g.resources
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega_card_game.Properties.Resources.resources
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game.csproj.GenerateResource.Cache
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game.csproj.CoreCompileInputs.cache
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game.exe
+C:\Users\Zachary\Desktop\mega card game\mega card game\obj\Debug\mega card game.pdb

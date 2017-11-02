@@ -1,0 +1,17 @@
+﻿<Window x:Class="mega_card_game.The_Victor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mega_card_game"
+        mc:Ignorable="d"
+        Title="The_Victor" Height="139.497" Width="279.831">
+    <Grid>
+        <Label Content="Congratulations you have beaten " HorizontalAlignment="Left" Height="25" Margin="46,26,0,0" VerticalAlignment="Top" Width="186" IsEnabled="False" RenderTransformOrigin="0.151,0.348"/>
+        <Label x:Name="lblNPCPlayer" Content="NPC Player" HorizontalAlignment="Left" Height="25" Margin="74,44,0,0" VerticalAlignment="Top" Width="70" IsEnabled="False"/>
+        <Label Content="in battle" HorizontalAlignment="Left" Height="25" Margin="134,44,0,0" VerticalAlignment="Top" Width="70" IsEnabled="False"/>
+        <Button x:Name="btnExitV" Content="Exit" HorizontalAlignment="Left" Height="23" Margin="10,83,0,0" VerticalAlignment="Top" Width="82" Click="BtnExitV_Click"/>
+        <Button x:Name="btnNewGameV" Content="New Game" HorizontalAlignment="Left" Height="23" Margin="180,83,0,0" VerticalAlignment="Top" Width="82" Click="btnNewGameV_Click"/>
+
+    </Grid>
+</Window>
